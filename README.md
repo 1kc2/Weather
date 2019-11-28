@@ -6,4 +6,4 @@ This is a basic learning project for programming in the [Go](http://golang.org/)
 
 ## Prerequisites
 
-- OpenWeather API (obtain one here: https://openweathermap.org/api).
+- OpenWeather API (obtain one here: https://openweathermap.org/api)
