@@ -166,6 +166,6 @@ func main() {
 	//		os.Exit(1)
 	//	}
 	location := os.Args[1]
-	token := "8f6bed5d8fb82eab0589d3b119cec424"
+	token := "ENTER TOKEN HERE"
 
 }
