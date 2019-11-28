@@ -1,6 +1,6 @@
 # Weather
 
-> This is a basic learning project for programming in the [Go](http://golang.org/) language.
+>> This is a basic learning project for programming in the [Go](http://golang.org/) language.
 
 A weather-fetcher written in Go using the OpenWeather API.
 
